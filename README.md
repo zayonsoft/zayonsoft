@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zayonsoft
 - 👀 I’m a Software Developer
-- 🌱 I speccialize using python majorly for Backend development using django framework
-- ...and I already started using react to create reusable and interactive frontend 😊👌
+- 🌱 I develop the server-side of applications using Python Programming Language - Django Framework
+- ...and for the frontend I just recently and seriously started cooking with React Js for the development of reusable and interactive components 😊👌
 - 💞️ I’m looking to collaborate on anything I can
 - 📫 Reach me through favourlosotu@gmail.com
 
